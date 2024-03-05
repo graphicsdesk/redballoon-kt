@@ -7,12 +7,148 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "In the summer of 2022, Columbia informed the Red Balloon preschool’s parent board that the childcare center would have to leave its location in a Columbia residential building by August 2023. The center, which charged more affordable tuition rates compared to nearby centers, closed its doors that August after months of protests led by Columbia students and Red Balloon parents. Here is a visual history of the center since Columbia first announced its plans to evict Red Balloon in 2022."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "timeline.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "When Hannah Throshell, SSW ’24, a Red Balloon Learning Center parent, learned of Columbia’s plan to evict her son’s preschool, she felt she was at a “dead end.” After Red Balloon closed, Throshell was filled with an uncertainty she said has “weighed on” her."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s eviction of Red Balloon from 560 Riverside Drive in August 2023 left many parents, including Throshell, unsure of where they would send their children for preschool. While the University provided financial assistance to families seeking child care from other institutions in the wake of Red Balloon’s eviction and closure, the agreement to provide monetary support will expire after the 2023-24 school year."
+          },
+          {
+            "type": "text",
+            "value": "According to former Red Balloon parents, University representatives informed former Red Balloon families in a Feb. 22 meeting that the plan to reinstate the early childhood learning center had been delayed due to construction, leaving many parents with the same concerns they had after Red Balloon’s closure in 2023."
+          },
+          {
+            "type": "text",
+            "value": "After Columbia student and parent protests starting in December 2022 against Red Balloon’s then impending closure, the University <a href=\"https://www.columbiaspectator.com/city-news/2023/09/27/planned-preschool-in-former-red-balloon-location-is-in-the-spirit-of-evicted-school-former-parent-board-head-says/\">announced</a> its commitment to searching for a new nonprofit child care provider. Columbia also committed to providing former Red Balloon families with subsidized tuition at alternate child care centers during the transition process."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s subsidized tuition coverage for the first year softened the blow of Red Balloon’s closure."
+          },
+          {
+            "type": "text",
+            "value": "“They offered us a one-time transition of financial assistance to compensate for the tuition differences for the first year, so we were able to pay the Red Balloon price but go to this more expensive place,” Rui Xiao, former Red Balloon parent board member, said."
+          },
+          {
+            "type": "text",
+            "value": "Many former Red Balloon parents moved to attend The Weekday School located at 490 Riverside Drive. However, when Columbia’s financial assistance expires after this year, The Weekday School’s prices, which are higher than Red Balloon’s tuition, will be too expensive for many families."
+          },
+          {
+            "type": "text",
+            "value": "“[The Weekday School] is offering similar to what Red Balloon offers, but it’s a lot more expensive, so, of course, financially this year we need to pay more,” Xiao said."
+          },
+          {
+            "type": "text",
+            "value": "The Weekday School declined to comment."
+          },
+          {
+            "type": "text",
+            "value": "In August 2023, Columbia updated a June 2023 plan to establish a new child care center, which had been set to open in September 2024, and promised to open a preschool “in the spirit” of Red Balloon. However, many parents are concerned about the implications of the center’s construction delay, especially with the pressure of Columbia’s financial assistance expiring soon. For many parents, the frustrations are aggravated by what they say is a lack of specificity from Columbia."
+          },
+          {
+            "type": "text",
+            "value": "“The construction has been delayed, so Red Balloon won’t be able to reopen this year, so it’s unclear [and] we don’t get a specific timeline from Columbia,” Xiao said."
+          },
+          {
+            "type": "text",
+            "value": "University spokesperson Samantha Slater wrote in a statement to Spectator that construction plans for the new center are continuing in a timely manner."
+          },
+          {
+            "type": "text",
+            "value": "“Plans to establish a new child care center at 560 Riverside Drive are on track,” Slater wrote. “The University remains committed to having that center operate in accordance with the principles, including affordability, stated by Interim Provost Dennis Mitchell last August.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read More: </i><a href=\"https://www.columbiaspectator.com/city-news/2023/09/27/planned-preschool-in-former-red-balloon-location-is-in-the-spirit-of-evicted-school-former-parent-board-head-says/\"><i>Planned preschool in former Red Balloon location is ‘in the spirit’ of evicted school, former parent board head says</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "For many families, Red Balloon provided a unique balance of social and financial support. Red Balloon’s prices were considerably lower than those of other schools in New York, providing parents with full-time, affordable care."
+          },
+          {
+            "type": "text",
+            "value": "“Let’s say you have a two-year-old and you need full-time care. A place like Red Balloon is a really ideal situation because in the context of New York City, it was very affordable, especially for the hours, full-time care, and creative curriculum setting,” Annapurna Potluri, former president of the Red Balloon parent board, said."
+          },
+          {
+            "type": "text",
+            "value": "Not only did Red Balloon offer the extended, affordable hours necessary to support many working parents, the center also accepted families of all socioeconomic backgrounds in its dedication to inclusivity, helping some families combat food insecurity. Many parents are concerned they may not find the affordability Red Balloon offered in their now necessary search for child care for the 2024-25 school year."
+          },
+          {
+            "type": "text",
+            "value": "“Affordability is a difficult concept in the child care arena because the truth of it is that most Western countries that are comparable to the U.S. have state-subsidized child care through the government, and we don’t have that here. So even affordable child care is often expensive still,” Potluri said."
+          },
+          {
+            "type": "text",
+            "value": "Red Balloon also offered a necessary community for many families, ensuring that children and parents alike received support and guidance. Following the closure of Red Balloon, many parents remained supportive of each other in their search for new child care."
+          },
+          {
+            "type": "text",
+            "value": "“My hope as a mom is always to extend the ladder behind me to parents with younger kids, and I hope that I’m doing as much work as I can to ensure that the next generation of parents have an easier time than I did finding child care,” Potluri said."
+          },
+          {
+            "type": "text",
+            "value": "However, despite supportive parent networks, the search for adequate and affordable child care after the closure of Red Balloon has been difficult for many parents. Xiao described the process as “intense,” as families had to attend open houses and interviews."
+          },
+          {
+            "type": "text",
+            "value": "“It’s challenging for us to look for a new place, and it’s also challenging for my daughter. Every kid’s different, but for my daughter, it took her three months to get used to a new place,” Xiao said. “The beginning was quite stressful.”"
+          },
+          {
+            "type": "text",
+            "value": "Amid uncertainty regarding the opening of a child care center at 560 Riverside Drive, parents are not sure if they should return to the daycare center or seek external child care despite high prices. According to Xiao, many parents are considering participating in the city’s universal pre-K program. She is still undecided on what she will do pertaining to her own daughter’s child care next year."
+          },
+          {
+            "type": "text",
+            "value": "While parents remain optimistic that a new center “in the spirit of” Red Balloon will reopen, many are still disappointed with how the Columbia administration handled both the closing of Red Balloon and the delayed opening."
+          },
+          {
+            "type": "text",
+            "value": "“It’s just very telling,” Throsell said. “Columbia wants to accommodate and keep up their institutions until they don’t, and they’re able to turn a blind eye when we fall through the cracks.”"
+          },
+          {
+            "type": "text",
+            "value": "Between Columbia administration and former Red Balloon parents, fulfilling the public commitment by opening a new, affordable center remains a priority."
+          },
+          {
+            "type": "text",
+            "value": "“It is understood that this is an urgent need in the community, and it is part of a very public commitment that Columbia made to the community,” Potluri said. “Hopefully we will be able to see [the center] open very soon.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Aiyana St. Hilaire can be contacted at </i><a href=\"mailto:aiyana.sthilaire@columbiaspectator.com\"><i>aiyana.sthilaire@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/aiyanast_hil\"><i>@Aiyanast_hil</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Kyara Torres-Olivares can be contacted at </i><a href=\"mailto:kyara.torresolivares@columbiaspectator.com\"><i>kyara.torresolivares@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a>."
+          }
+        ],
+        "headline": "Columbia financial assistance for former Red Balloon families set to expire in the coming school year, eliciting family concern",
+        "date": "March 5, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/aiyana-st-hilaire/\">Aiyana St. Hilaire</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/kyara-torres-olivares/\">Kyara Torres-Olivares</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DUP4KQFB5JC7TOPJFF66NYVK4Q.jpg",
+        "cover_caption": "Pippa Tsuki Carlson / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1BGI9PnV4jI03ux7ZHnWa_mtfDvqNCmL8zNMn5SJ8XKs/edit"
       }
     }
   }
